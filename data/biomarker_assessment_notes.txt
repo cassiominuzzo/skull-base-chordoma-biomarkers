@@ -1,0 +1,6 @@
+One row per study–biomarker pair measured. CGH, comparative genomic hybridisation; DFS, disease-free survival; FFPE, formalin-fixed paraffin-embedded; FISH, fluorescence in situ hybridisation; IHC, immunohistochemistry; IPD, individual-participant data; LOH, loss of heterozygosity; nr, not reported; OS, overall survival; PFS, progression-free survival; RFS, recurrence-free survival; ROC, receiver operating characteristic; TMA, tissue microarray; WGS, whole-genome sequencing.
+Specimen: tissue format (whole section or TMA) as described in the article, then the surgery that provided the specimen; nr, not described.
+Primary synthesis: adjusted hazard ratios only. Unadjusted synthesis: unadjusted, derived and IPD-based estimates. Display: forest plot without a pooled estimate (k<3 or incompatible estimates).
+ᵃ Skull-base cases only.
+ᵇ Genetic group (1p36 and 9p21) unknown in 38 of 110 patients; the number with FISH results was not reported.
+ᶜ Estimates published in the conference abstract (Gersey 2022) linked to the full-text report.

@@ -1,0 +1,5 @@
+"synthesis_id","level","k","hr_95ci","i2","p_subgroup_difference","note","studies"
+"KI67-BIN-PFS-UNADJ","Cut-off around 5% (4–6%)",4,"2.90 (1.23–6.81)",16,0.0515544173981394,"","Kitamura 2013; Zhang S 2019; Passeri 2022; Noya 2023"
+"KI67-BIN-PFS-UNADJ","Other cut-offs",2,"1.09 (0.06–21.10)",0,0.0515544173981394,"Fewer than three cohorts: described without inference","Righi 2023; Zhao 2023"
+"KI67-BIN-OS-UNADJ","Cut-off around 5% (4–6%)",4,"4.49 (1.44–13.98)",0,0.0309438938113742,"","Horbinski 2010; Kitamura 2013; Zhang S 2019; Noya 2023"
+"KI67-BIN-OS-UNADJ","Other cut-offs",2,"1.01 (0.03–38.61)",0,0.0309438938113742,"Fewer than three cohorts: described without inference","Righi 2023; Zhao 2023"

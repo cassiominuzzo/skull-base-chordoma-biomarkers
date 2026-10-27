@@ -1,0 +1,22 @@
+study_id,study,ki67_cutoff_percent,data_derived_cutoff,specimen,paediatric_only,tiantan_cluster
+CHO-10,Kitamura 2013,5,no,not_reported,no,no
+CHO-34,Zhang S 2019,5.08,yes,mixed,no,yes
+CHO-26,Wang B 2022,7.5,yes,mixed,no,no
+CIT-15,Passeri 2022,6,no,mixed,no,no
+CHO-17,Noya 2023,5,no,mixed,no,no
+CIT-25,Righi 2023,3,no,not_reported,no,no
+CHO-35,Zhao 2023,2,yes,index_primary,no,no
+CHO-07,Horbinski 2010,5,no,index_primary,no,no
+CHO-09,Ito 2009,,no,index_primary,no,no
+CHO-30,Zenonos 2018,,no,mixed,no,no
+CIT-39,Cha 2019,,no,not_reported,no,no
+CHO-14,Matsuno 1997,,no,index_primary,no,no
+CHO-21,Saad 2005,,no,mixed,yes,no
+CIT-12,Yadav 2014,,no,index_primary,yes,no
+CHO-25,Wang L 2014,,no,index_primary,no,yes
+CIT-41,Chen 2022,,no,index_primary,no,no
+CHO-22,Sakai 2007,,no,index_primary,no,no
+CIT-24,Zhai 2019,,no,not_reported,no,yes
+CHO-13,Longoni 2008,,no,mixed,no,no
+CHO-02,Bai 2021,,no,index_primary,no,yes
+CIT-44,Muthiah 2026,,no,index_primary,no,no

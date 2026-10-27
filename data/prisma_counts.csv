@@ -1,0 +1,27 @@
+data,n,boxtext
+database_results,3103,
+database_specific_results,"Embase, 1372; Web of Science Core Collection, 982; PubMed/MEDLINE, 735; Cochrane CENTRAL, 14",
+register_results,0,
+register_specific_results,,
+website_results,8,"Full-text database search (Europe PMC, PMC)"
+organisation_results,10,Reference lists of previous systematic reviews
+citations_results,33,Citation searching (backward and forward)
+duplicates,1514,
+excluded_automatic,0,
+excluded_other,0,
+records_screened,1589,
+records_excluded,1543,
+dbr_sought_reports,46,
+dbr_notretrieved_reports,1,
+dbr_assessed,45,
+dbr_excluded,"No extractable effect estimate, 10; Not skull base or subgroup not separable, 8; Conference abstract without full-text report, 5; No time-to-event analysis, 3",
+other_sought_reports,51,
+other_notretrieved_reports,1,
+other_assessed,50,
+other_excluded,"Biomarker of interest not measured, 13; No time-to-event analysis, 10; No extractable effect estimate, 9; Not skull base or subgroup not separable, 6; Review (not a primary study), 5; Broad 1p loss not specific to 1p36, 1; Ineligible specimen timing, 1",
+new_studies,22,
+new_reports,24,
+total_studies,22,
+total_reports,24,
+previous_studies,0,
+previous_reports,0,

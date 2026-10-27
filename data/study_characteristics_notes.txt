@@ -1,0 +1,13 @@
+Studies are labelled by first author and year (for Ito 2009, Zenonos 2018, Zhai 2019 and Passeri 2022, the year of online publication). Values are n (%) unless stated otherwise; age in years and follow-up in months, reported as median or mean (range) as available. Histology: conventional / chondroid. nr, not reported; ≥1, count not reported but the youngest patient was younger than 18 years; CGH, comparative genomic hybridisation; FISH, fluorescence in situ hybridisation; LOH, loss of heterozygosity; RT, radiotherapy; SRS, stereotactic radiosurgery; TMA, tissue microarray; WGS, whole-genome sequencing.
+ᵃ Skull-base subgroup analysed in this review, computed from individual-participant data (Saad 2005: 7 of 8 cases; Yadav 2014: 7 clival paediatric cases of 22 chordomas).
+ᵇ Mean as reported by the authors (17 tumours from 10 patients); range from the per-patient table.
+ᶜ Computed from individual-participant data published in the article or its supplement.
+ᵈ Reported in the text; the per-patient table lists 4 male patients.
+ᵉ Study definition of paediatric age; the number younger than 18 years was not reported.
+ᶠ The text reports an age range of 17–85 years and a median follow-up of 15.8 years; the per-patient table lists no patient younger than 23 years.
+ᵍ Stated recruitment period; the supplementary data include surgery dates outside it in 6 patients. Follow-up computed from the supplement (stated inclusion criterion: ≥48 months).
+ʰ Tumour samples (primary and recurrent), not patients.
+ⁱ Skull-base subgroup (clival/intradural, 15; clival with extracranial extension, 17) as defined by the authors.
+ʲ Cohort of the survival analysis (patients with primary resection), described in the conference abstract linked to the full-text report (Gersey 2022); the full-text report describes 194 patients and 269 resections from 2001–2020.
+ᵏ Computed from the reported percentage.
+ˡ Computed from the per-patient table. The article reports a 'median' age of 45 years and a 'median' follow-up of 29.2 months, which are the means of the per-patient table (medians 49 years and 24 months).

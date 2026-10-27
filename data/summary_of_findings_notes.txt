@@ -1,0 +1,6 @@
+HR, hazard ratio for the higher biomarker category (binary) or per 1 percentage point (continuous); pooled estimates from random-effects models (REML) with Hartung-Knapp-Sidik-Jonkman confidence intervals (ad hoc variance correction); PI, 95% prediction interval. k, number of cohorts; n, patients; nr, not reported. Certainty of evidence rated with GRADE for prognostic factors; statements follow GRADE informative-statement guidance (low certainty, 'may'; very low certainty, 'the evidence is very uncertain').
+ᵃ The study's 'overall survival' censored deaths from surgical complications or causes unrelated to the disease.
+ᵇ 95% CI derived from the reported p value.
+ᶜ Hazard ratios relative to 0–3% of cells with homozygous deletion; CIs not reported.
+ᵈ Estimates published in the conference abstract (Gersey 2022) linked to the full-text report (Muthiah 2026).
+ᵉ Muthiah 2026: number of patients with FISH results not reported; the cohort of 110 patients and its 18 deaths are counted.
