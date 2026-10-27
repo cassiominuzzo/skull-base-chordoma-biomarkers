@@ -18,7 +18,7 @@ Data, code and analysis report for the systematic review and meta-analysis *"Ki-
 - risk of bias (QUIPS), with the justification of each judgement;
 - certainty of evidence (GRADE).
 
-Download the file and open it in any web browser, or view it online through GitHub Pages. All numbers are recomputed from `data/estimates.csv` when the report is rendered.
+View it online at https://cassiominuzzo.github.io/skull-base-chordoma-biomarkers/, or download the file and open it in any web browser. All numbers are recomputed from `data/estimates.csv` when the report is rendered.
 
 ## Contents
 
@@ -72,3 +72,8 @@ quarto render index.qmd        # full report; writes index.html
 ## Citation
 
 The citation of the published article will be added here after publication.
+
+## Licence
+
+- Code (`R/`, `index.qmd`): MIT licence (`LICENSE`).
+- Data, results, figure and report (`data/`, `results/`, `figures/`, `index.html`): CC BY 4.0 (`LICENSE-DATA.md`).
